@@ -840,7 +840,7 @@ end; {OptsBtnClick}
 
 procedure TTableMaker.LinkImageClick(Sender: TObject);
 begin
-  if Sender=LemizhImage then OpenHTTP('https://lemizh.conlang.org/') else OpenHTTP('https://creativecommons.org/licenses/by-nc-sa/4.0/');
+  if Sender=LemizhImage then OpenHTTP('https://lemizh.conlang.org/') else OpenHTTP('https://www.gnu.org/licenses/gpl-3.0.html');
 end; {LinkImageClick}
 
 procedure TTableMaker.TabControlChanging(Sender: TObject; var AllowChange: Boolean);
