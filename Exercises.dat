@@ -1,0 +1,187 @@
+00|Solve this exercise:|||
+||(Click the key!)|1|This is the solution.
+02Composition|Identify the parts of these words, assuming they are main predicates:|||
+|| (Lemizh)àr —|1|<lem>lem</lem> + <lem>àr</lem> + <lem>c</lem> + &zero;
+|| (four)Ì —|2|<lem>gw</lem> + <lem>Ì</lem> + <lem>q</lem> + &zero;
+|| (not)Ìm —|3|<lem>n</lem> + <lem>Ìm</lem> + &zero; + &zero;
+|Identify the parts of these words, assuming they are <em>not</em> main predicates:|||
+|| — (six)irÌ —|4|<lem>sw</lem> + <lem>ir</lem> + <lem>h</lem> + <lem>Ì</lem>
+|| — veè —|5|<lem>v</lem> + <lem>e</lem> + &zero; + <lem>è</lem>
+|| — (strong)alý —|6|<lem>bl</lem> + <lem>al</lem> + &zero; + <lem>ý</lem>
+|| — (horse)Ìne —|7|&zero; + <lem>Ìn</lem> + <lem>hw</lem> + <lem>e</lem>
+02Level|Identify the level of each word in these sentences:|||
+|| (speak)á (Trance)èe (star)eé (Seamus)yì (war)ày (strange)Ìa.|1| <lem>(speak)á[1] (Trance)èe[2a] (star)eé[3] (Seamus)yì[2] (war)ày[2] (strange)Ìa[3].</lem>
+|| (strange)ìl (war)ày (speak)ýa (Trance)eè (Seamus)Ìi, (terrible)Ìy.|2| <lem>(strange)ìl[1] (war)ày[2] (speak)ýa[3] (Trance)eè[4a] (Seamus)Ìi[4], (terrible)Ìy[2].</lem>
+|| (assume)á veì (want)áy (Trance)eè (speak)ày (war)aÌ (Seamus)Ìi (eager)èy (hear)ày sàly.|3| <lem>(assume)á[1] veì[2a] (want)áy[2] (Trance)eè[3a] (speak)ày[3] (war)aÌ[4] (Seamus)Ìi[4] (eager)èy[5] (hear)ày[6] sàly[7].</lem>
+02Two|Identify the objects of each main predicate:|||
+|| (speak)á (Trance)èe (star)eé (Seamus)yì (war)ày (strange)Ìa.|1| <lem>(speak)á \{(Trance)èe (star)eé\} \{(Seamus)yì\} \{(war)ày (strange)Ìa\}.</lem>
+|| (strange)ìl (war)ày (speak)ýa (Trance)eè (Seamus)Ìi, (terrible)Ìy.|2| <lem>(strange)ìl \{(war)ày (speak)ýa (Trance)eè (Seamus)Ìi\}, \{(terrible)Ìy\}.</lem>
+|| (assume)á veì (want)áy (Trance)eè (speak)ày (war)aÌ (Seamus)Ìi (eager)èy (hear)ày sàly.|3| <lem>(assume)á \{veì\} \{(want)áy (Trance)eè (speak)ày (war)aÌ (Seamus)Ìi (eager)èy (hear)ày sàly\}.</lem>
+02Objects|Translate:|||
+||(help)á veè (female)Ìi.|1|I help her.
+||(help)á (female)yè vèi.|2|She helps me.
+||(love)è (female)Ìi.|3|the one loving her; her lover
+||(love)ì (speak)èe (war)ày.|4|the one being loved by the teller of a war
+02End|Invert the highlighted words and translate both the original sentence and yours: (Don’t worry about the difference between agentive and non-agentive.)|||
+||{(speak)á (love)íne} (all)yé (war)aÌ (Seamus)Ìi.|1|The one being loved by all (by everybody), possibly among others, tells Seamus about a war.\u10?<lem>(love)á (all)yè (speak)èin (war)aÌ (Seamus)Ìi.</lem>\u10?Everybody loves one (or some, or all) of those telling Seamus about a war.
+03Plot|For which other cases may the highlighted ones be substituted, if any? By which case markers are they represented? How is the meaning changed?|||
+||(fell)à (iceberg)y{è} (ship)y{Ì} (ground)Ì{ir}.|1|nominative -> causative (<lem>el</lem>) if the iceberg is seen as the cause\u10?&emsp;-> arguably instrumental (<lem>u</lem>) if the iceberg is seen as the tool\u10?&emsp;(both cases needing an inner partitive)\u10?accusative -> no other cases\u10?illative -> allative (<lem>Ur</lem>) if the ship sinks towards the ground\u10?&emsp;-> possibly dative (<lem>i</lem>) if the ground is the recipient of the ship
+||(angry)á (witch)e{è} (faun)Ì{i}.|2|nominative -> no other cases\u10?dative -> accusative (<lem>y</lem>) if the faun is out of the witch’s reach\u10?&emsp;-> causative (<lem>el</lem>) if he caused her anger\u10?&emsp;-> persuasive (<lem>Ol</lem>) since he is certainly the witch’s reason
+||(fell)à (picture)y{Ì} (wall)Ì{er}.|3|accusative -> no other cases\u10?elative -> arguably nominative (<lem>e</lem>) if the wall is seen as sending the picture to the bottom
+03Reception|Give three translations for the following sentence, one dative and two receptive (one of which in the passive voice):|||
+||(help)á (faun)yè (Lucy)Ìi.|1|<em>dative:</em> The faun helps Lucy.\u10?<em>receptive:</em> Lucy gets help from the faun.\u10?<em>&emsp;passive:</em> Lucy is being helped by the faun.
+03Agent|Translate:|||
+||(eat)á vèi.|1|I eat. (This could also mean that I take the food from someone.)
+||(eat)à vèi.|2|I am being fed.
+||(eat)á vèe.|3|I feed someone. (This could also be myself.)
+||(eat)à vèe.|4|Someone takes food from me and eats it.
+04Nouns|Translate:|||
+||(dam)è.|1|a dam-builder
+||(lace)è (thread)Ìi.|2|someone who makes lace from thread; a lace-maker who works with thread
+||(white)Ì (black)Ìi.|3|white, formerly black; a white thing made from a black one; something with a colour that changes or changed from black to white
+||(light)àr.|4|a light place; somewhere light
+||(happy)è.|5|happy; a happy one
+||(red)ìl.|6|redness
+||(trumpet)á (teach)èi.|7|The teacher listens to [someone playing] the trumpet.
+||(lift)á (teach)iè (circle)ùy.|8|The student lifts the compass (the drawing tool, the means for making circles).
+04End|Explain, in your own words, why inner and outer case must be identical for absorption to work.|||
+|Translate:|||
+||(do)èR.|1|starting time; the time an action starts
+|Give three possibilities to connect these two verbs with ‘and’:|||
+||(rustle)à. (shout)à.|2|<lem>(hear)à (rustle)anà (shout)àna.</lem>\u10?<lem>(perceive)à (rustle)anà (shout)àna.</lem>\u10?<lem>(do)à (rustle)anà (shout)àna.</lem>\u10?(The first is probably the best because it has the most informative main predicate.)
+05Adjectives|Translate (both as bracket and coordination where applicable):|||
+||(I see a rogue baker.)|1|<lem>(see)à veì (rogue)èe (bake)èe.</lem> (bracket)\u10?<lem>(see)à veì (rogue)eè (bake)èe.</lem> (coordination)\u10?Bracket inversion and switched order of the coordination are also possible.
+||(I see a strangely behaving good dancer.)|2|<lem>(see)à veì (dance)èe (good)yà (do)èe (strange)Ìa.</lem> (bracket)\u10?<lem>(see)à veì (dance)èe (do)èe (strange)yá (good)Ìa.</lem> (bracket)\u10?<lem>(see)à veì (dance)èe (good)yá (do)èe (strange)Ìa.</lem> (coordination)\u10?Bracket inversions and switched order of the coordination are also possible.
+||(I see one strangely behaving among (= from the set of) the good dancers.)|3|<lem>(see)à veì (do)èe (strange)yà (dance)èen (good)Ìa.</lem> (bracket)\u10?<lem>(see)à veì (do)èe (strange)yá (dance)èen (good)Ìa.</lem> (coordination)\u10?Switched order of the coordination is also possible.
+||(He is playing a black trumpet.)|4|<lem>(trumpet)à (black)Ìu.</lem> (‘He is playing a trumpet, and the means for this is black.’)
+|Explain why bracket inversions are possible, in contrast to other inversions inside a sentence.|||
+|If a bracket’s predicate has an inner partitive case, why is the object’s outer case not a partitive?|||
+|What does a bracket with an inner partitive of the predicate and a corresponding outer partitive of the object mean?|||
+05Genitive|Translate:|||
+||(the beaver’s fish)|1|<lem>(fish)Ì (beaver)ÌU.</lem>
+||(the beaver’s dam)|2|<lem>(dam)ý (beaver)Ìe.</lem>\u10?(The beaver-nom [agentive] made the dam. Or possibly <abbr class="gloss" title="benefactive">ben</abbr> to emphasise the use of the dam over its creation by the beaver.)
+||(the love of music)|3|<lem>(love)à (music)Ìy.</lem> (Someone loves music-acc. Music is probably too ‘distant’ or abstract for <abbr class="gloss" title="dative">dat</abbr>.)
+||(the [biological] family of tortoises)|4|<lem>(family)Ì (tortoise)Ìy.</lem> (appositive genitive)
+||(a bearded baker)|5|<lem>(bake)è (beard)èe.</lem> (The baker[’s body] produced the beard.)
+||(a plastic bottle)|6|<lem>(bottle)Ì (plastic)Ìi.</lem>
+06Compounds|Identify the boundaries between heads and modifiers and the epenthetic cases of the following compounds. Use the dictionary if necessary:|||
+|| (wine)y(two)Ì.|1| <lem>(wine)y-(two)Ì.</lem> (This can be seen without knowing the words, as double consonants only occur at morpheme boundaries.)\u10?epenthetic case: the first <lem>y</lem>
+|| (horse)y(female)Ì.|2| <lem>(horse)y-(female)Ì.</lem>\u10?epenthetic case: the word-initial <lem>y</lem>
+|Translate as separate words, give their inversions if applicable, and translate as compounds:|||
+||(hard-shouldered)|3|<lem>(hard)Ì (shoulder)Ìy. => (shoulder)y(hard)Ù.</lem>
+||(to salt the meat, to put salt on the meat)|4|<lem>(move)à (salt)Ìy. <=> (salt)Ì (move)Ìy. => (move)y(salt)à (meat)Ìi.</lem>
+06Pronouns|What are the targets of the pronoun stems in the following sentences? What do the pronouns refer to? Are these good choices of pronouns?|||
+|| (red)à (smell)ùi zèi.|1|the parole; the sender of the parole, i.e. the speaker; yes, in fact the only choice
+|| (eat)á (Achilles)yì (horse)Ìy (white)Ìy qÌU.|2|the stem of the second word (‘Achilles’); Achilles; no, indirect reference should be preferred (<lem>— zìU.</lem>)
+|Translate, including all the pronouns for training purposes:|||
+||(You don’t love my tortoise.)|3|<lem>(love)a(not)á viè (tortoise)Ìi zèU.</lem> (or outer <abbr class="gloss" title="accusative">acc</abbr> for the tortoise)
+||(For some reason, I am not happy about this.)|4|<lem>(not)à (happy)áy zeè (this)yý (any)ÌOl.</lem> (or outer <abbr class="gloss" title="causative">caus</abbr> for the last word)\u10?Making ‘any’ an object of ‘happy’ as in the following translation is not quite the same. Do you get the difference (per compounding Rule Three)?\u10?<lem>(happy)a(not)á veè (this)yÌ (any)ÌOl.</lem>\u10?If ‘this’ refers to the previous exercise, we can replace the definite pronoun with <lem>— saý —</lem> (in the first translation) or <lem>— qaÌ —</lem> (in the second).
+||(Lover and beloved are walking there.)|5|<lem>(walk)á (love)enÌ inÌ (this)Ìar.</lem>
+||(one who is given something vs. one who takes something)|6|<lem>(give)ì.</lem>\u10?<lem>(give)í wìi.</lem>
+||(They are afraid of each other.<br>(two possibilities: a long-winded and a short one))|7|<lem>(fear)à we(each)y(not)èel.</lem>\u10?<lem>(fear)à wèel.</lem> (assuming they cannot be afraid of themselves)
+07|Translate, optionally using a pocket calculator. Spell out the numbers:|||
+||(48)|1|<lem>(16)il(three)Ì.</lem> (30<sub>hex</sub> = <lem>30</lem>)
+||(1,000,000)|2|<lem>\[(make)Ì\] (65536)il(fifteen)ynÌ (4096)il(four)ynÌ (256)il(two)ynÌ (16)il(four)Ìny.</lem> (F,4240<sub>hex</sub> = <lem>F-4240</lem>)
+||(&minus;60)|3|<lem>(opposition)Ì (16)il(three)ilnÌ (twelve)ìlny.</lem> (&minus;3C<sub>hex</sub> = <lem>_3C</lem>)
+||(1&frac;17)|4|<lem>(little)Ì (16)ynì (one)Ìni.</lem>
+|Translate:|||
+||(The group of tortoises isn’t seen anywhere.)|5|<lem>(see)ar(not)à (group)Ìe (tortoise)Ìi.</lem>\u10?<lem>(see)a(not)à (group)Ìe (tortoise)yí (any)Ìar.</lem> (possible, but less elegant)
+||(Achilles is queuing quite often.)|6|<lem>(queue)aR(5/8)á (Achilles)Ìi.</lem>
+||(walk)ir(3/4)à.|7|walk to many places, to a large area
+||(laugh)Ol(1/8)à.|8|laugh with hardly a reason
+||(happy)iR(not)à.|9|be happy forever
+08|Translate:|||
+||(a few of the greenish rooms)|1|<lem>(1/4)Ì (room)Ìyn (green)il(1/4)Ìy.</lem> (or other weakening numerals)
+||(a threefold duty (give three translations – which comes closest to the English phrase?))|2|<lem>(must)Ì (three)Ìy.</lem> ‘three duties’\u10?<lem>(must)Ì (ensemble)i(three)Ìy.</lem> ‘a duty, an ensemble of three’ – comes closest\u10?<lem>(must)Ì (ensemble)i(three)ìy.</lem> ‘duties, forming an ensemble of three’\u10?(<lem>(ensemble)Ì.</lem> ‘ensemble’ is arguably more appropriate than <lem>(group)Ì.</lem> ‘group’.)
+||(the second skeleton (use the word <lem>(bone)Ì.</lem> ‘bone’ for translation))|3|<lem>(two)ìr (ensemble)i(bone)Ìy.</lem> (or with egressive, depending on context)
+||(the fourth room vs. the fourth – green – room)|4|<lem>(four)ìr (room)Ìy (green)Ìy.</lem> vs.\u10?<lem>(four)ìr (room)yÌ (green)Ìir.</lem> (‘the fourth room, a green thing’)
+||(slowness)|5|<lem>(fast)a(1/4)à.</lem>
+||(I’m largely doing it because of the money (= the means of paying).)|6|<lem>(do)à (3/4)ÌnUl (pay)ùyn.</lem>
+||(They met for the first time in the green part of the hotel.)|7|<lem>(one)ìR (meet)ày (group)ìorn (hotel)yÌ (green)Ìi.</lem>\u10?Compounding is only possible if we place ‘green’ in front, resulting in a partitive bracket:\u10?<lem>(one)ìR (meet)ày (green)Ìor (group)y(hotel)ìyn.</lem>
+||(She eats it because of many vitamins, among other things.)|8|<lem>(eat)à (vitamin)ÌnOl (3/4)Ìy.</lem>
+||(<lem>(see)a(not)à veì (this)Ìe.</lem> vs. <lem>(see)à veì (this)y(not)Ìe.</lem> (<lem>(see)à.</lem> = ‘see’))|9|I do not see this vs. I see something else.
+09|How many different actions occur in the following sentence?|||
+||(sing)é (sing)ìe.|1|Probably two, unless the two actions happen to be identical (which should be expressed with a pronoun).
+|Which actions do the cases in the following sentence characterise completely?|||
+||(speak)á wiè (3/4)ÌaR.|2|The inner accusative of <lem>(3/4)Ì.</lem> characterises the weighting numeral; all other cases, including the main predicate’s inner case, characterise the speaking.
+|What can you conclude from the presence of the word <lem>(green)Ì.</lem> ‘green’ in the following sentence, apart from that we are talking about all the <em>green</em> rooms?|||
+||(1/1)Ì (room)Ìyn (green)Ìy.|3|It isn’t clear from context that we are talking about <em>green</em> rooms; e.g., this hasn’t been established until now.
+|Can you tell whether the beavers in the following sentences exist, and by which kind of reality?|||
+||(see)à (beaver)Ìi.|4|‘The beaver sees something’: so he must exist, per pragmatic reality.
+||(see)à (beaver)Ìe.|5|‘Someone sees the beaver’: which might be an illusion.
+||(see)è (beaver)Ìe.|6|‘the beaver, the seen one = There is a seen beaver’: the bracket confers grammatical reality on the beaver.
+||(love)à veè (see)èy (beaver)Ìe.|7|‘I love the seen beaver’: the bracket only confers second-level grammatical reality on the beaver, so it might still be an illusion.
+|Translate and compound, and invert the translations unless inversion ban applies:|||
+||(He eats nothing-acc.)|8|<lem>(not)à (eat)Ìy. => (eat)y(not)à.</lem> (inversion ban)
+||(The sound of a trumpet came from nowhere-ela.)|9|<lem>(not)à (trumpet)èry. => (trumpet)er(not)à.</lem>\u10?<lem><=> (trumpet)à (not)Ìer.</lem>
+10Topic|Why do adverbially used adjectives keep the outer factive when their predicate is topicalised? What would the following bracket express instead?|||
+||(do){èR} (strange)Ì{eR}.|1|He is strangely beginning to behave. The beginning of his behaviour is strange.
+|Translate:|||
+||(He ate his fill.)|2|<lem>(eat)Ùl.</lem>
+||(He knows the sound of a trumpet.)|3|<lem>(hear)ìl (trumpet)Ìy.</lem> (He has heard the content of – i.e. the sound conveyed by – playing the trumpet; and the consequence of this exists.)
+||(The beaver has taken my lace.)|4|<lem>(give)íl (beaver)yì (lace)Ìy zèU.</lem> (perfect and agentive) 
+||(I loudly answer ‘blue’ to your question.<br>(Include the pronouns.))|5|<lem>(do)á veè (ask)Úla zié (loud)yà <(blue)Ìy>.</lem>
+10Predicative|Translate:|||
+||(The sky is blue [i.e., and that’s a fact].)|1|<lem>(blue)ìl (sky)Ìy.</lem>
+||(The sky is blue [i.e., again after the rain].)|2|<lem>(blue)ìl (sky)Ìi.</lem>
+||(They elected me chief.<br>(Being elected is the aim of voting. — Include the first person pronoun.))|3|<lem>(vote)Ùl (boss)eÌ vèi.</lem>
+||(The tortoise is greeting Achilles happily.)|4|<lem>(greet)á (tortoise)yè (happy)eè (Achilles)Ìi.</lem>
+11|Translate:|||
+||(Othello behaves like Roderigo does because of a lie.<br>(The lie is Roderigo’s reason, not Othello’s.))|1|<lem>(do)á (Othello)yè (Roderigo)yèm (lie)àOlm.</lem>\u10?(No indefinite pronoun in the plain persuasive is necessary.)
+||(Desdemona loves Othello despite his foreignness.<br>(Use the verb <lem>(native)Ì.</lem> ‘native’.))|2|<lem>(love)á (Desdemona)yè (Othello)yì (native)Ìim.</lem>\u10?(Desdemona loves Othello like a native / as if he were a native)
+||(The woman builds a bridge as quickly as the beaver a dam.)|3|<lem>(make)á (female)yè (beaver)yèm (bridge)yÌ (dam)yÌm (fast)Ìa \[vàmym\].</lem>\u10?(‘bridge’ cannot be absorbed into the main predicate because we want to keep it out of the comparing sentence.)
+||(The woman has got a horse faster than the Neapolitan’s.)|4|<lem>(fast)a(more)à (horse)Ìe (female)yÚ Ìmem (Neapolitan)ÌUm. <=> (horse)Ì (female)yÙ (fast)a(more)èy vÌmem (Neapolitan)ÌUm.</lem>
+||(The more the horse eats, the slower it is.)|5|<lem>(amount)ìl (fast)a(1/4)ày (horse)yé (eat)ýym \[fèi\].</lem>
+||(Thou hast got more hair on thy chin than my horse has on his tail.)|6|<lem>(more)ìl (hair)yÌ (chin)Ìar ziÚ (tail)Ìarm (horse)ÌU cèU.</lem>\u10?(The amount of hair on your chin is more than the one on my horse’s tail.\u10?‘chin’ could also be the locative object of ‘hair’, but then we would need an additional pronoun <lem>— Ìmym —</lem> as a predicate for ‘tail’, unnecessarily complicating the sentence.)
+|Why didn’t we translate the last exercise (as well as ‘more spirit’) with <lem>(amount)y(more)ìl —</lem>?||7|As <lem>(more)à.</lem> is a sub-category verb of <lem>(amount)à.</lem>, the latter can absorb the former:\u10?<lem>(more)ìl (amount)Ìy (hair)Ìy. <=> (amount)ìl (hair)yÌ (more)Ìy. -> (more)ìl (hair)Ìy.</lem>
+|In translating ‘Fantasy is as thin as air’, how would we include the information that fantasy and air are very thin?||8|<lem>(dense)ìl (fantasy)yÌ (air)yÌm (1/8)Ìilm.</lem>\u10?(The numeral has to be in the qualitative case; otherwise the sentence would mean ‘There is hardly a density of fantasy like the one of air; it is hardly the case that fantasy is as thin as air’. If this doesn’t make sense, try turning the numeral into the main predicate with an inversion.)
+12|Translate:|||
+||(The ship will fly in.)|1|<lem>(fly)aR(front)á (ship)yÌ (outside)il(opposition)Ìir.</lem>
+||(The children were playing under the table just now.)|2|<lem>(play)á (child)yè (front)il(opposition)il(1/8)yàR (up)il(opposition)Ìar (table)Ìe.</lem>
+||(We eat in the hotel [and that’s a law of nature].<br>(three possibilities; which is the best here?))|3|<lem>(make)ìl venÌ (eat)ìy (outside)il(opposition)Ìar (hotel)Ìe.</lem> (This is the best possibility: We eat inside the hotel.)\u10?<lem>(make)ìl venÌ (eat)ìy (group)ìarn (hotel)Ìy.</lem> (This might be used to include, say, the hotel’s patio. The compounded form is also possible.)\u10?<lem>(make)ìl venÌ (eat)ìy (hotel)Ìor.</lem> (The agent-centred scenic case is somewhat incongruent when we want to express it’s a law of nature.)\u10?(The non-agentive ‘we’ indicates it’s not our law, but this is merely a trifle.)
+||(It has rained for two days vs. It has been raining for two days.)|4|<lem>(rain)ìl (day)il(two)ÌyR.</lem> vs.\u10?<lem>(rain)èR (front)il(opposition)ÌeR (day)il(two)Ìil.</lem> (It has started to rain two days back.)
+||(I am running towards the tree.<br>(two possibilities, one making use of the first axis verb))|5|<lem>(run)à (tree)ÌUr.</lem> ‘I am running with the tree being my <strong>aim</strong>.’\u10?<lem>(make)à (front)Ìi (run)aé (tree)Ìar. <=> (run)à (front)èa (make)ìy (tree)Ìar.</lem> (resultative) ‘I am running in the <strong>direction</strong> of the tree.’
+||(the finger pointing upwards, the upward-pointing finger<br>(‘finger’ is a tool noun.))|6|<lem>(finger)ù (front)èu (up)Ìi.</lem> (resultative)
+||(Those houses a long way off are spread out over a large area.)|7|<lem>(between)ìl (house)Ìe (far)il(3/4)yár (3/4)Ìyr.</lem>
+||(We are celebrating in anticipation of midnight.)|8|<lem>(celebrate)à (midnight)ÌUR.</lem>
+||(Under what circumstances would somebody phrase ‘men of Lemaria’ as <lem>(male)Ì (outside)il(opposition)Ìar (Lemizh)Ìe.</lem>?)|9|For example, ‘Men of Lemaria, let us defend this indivisible and glorious country’. Which no Lemizh would say, nowadays.
+13|Translate:|||
+||(The beaver can swim.)|1|<lem>(teach)ìl (beaver)yì (swim)ày.</lem> (indicates ability, not opportunity)
+||(Zarathustra wants the eagle to give [him] something drinkable.<br>(two or four possibilities? What are the differences?))|2|two:\u10?<lem>(want)á (Zarathustra)yè (give)áy (eagle)yè (drink)a(teach)Ìy.</lem>, or with non-agentive Zarathustra, indicating that the wish isn’t his decision\u10?<lem>(want)á (Zarathustra)yè (give)ày (drink)a(teach)yý (eagle)Ìi.</lem> is not viable because it could also mean ‘Zarathustra wants his eagle to take/get/fetch something drinkable’.
+||(Zarathustra wants to take something from the eagle.<br>(two or four possibilities? What are the differences?))|3|two:\u10?<lem>(want)á (Zarathustra)yè (give)ày (eagle)Ìe.</lem>, or with non-agentive Zarathustra, indicating that the wish isn’t his decision\u10?As the agent of ‘give’ is Zarathustra, not the eagle, there is no construction with a dative object of ‘want’.
+||(Zarathustra orders his eagle not to fly.<br>(four possibilities; what are the differences?))|4|<lem>(allow)a(opposition)á (Zarathustra)yè (fly)áy (eagle)Ìy zèU.</lem> (‘Zarathustra forbids his eagle to fly.’)\u10?<lem>(allow)a(opposition)á (Zarathustra)yè (fly)aÌ (eagle)Ìi vèU.</lem>\u10?<lem>(must)á (Zarathustra)yè (fly)a(not)áy (eagle)Ìy zèU.</lem> (‘Zarathustra orders his eagle not to fly’, lit. ‘to do something that is not flying.’)\u10?<lem>(must)á (Zarathustra)yè (fly)a(not)aÌ (eagle)Ìi vèU.</lem>\u10?Translations 3 and 4 are neg-raisings, i.e. more polite than 1 and 2. Translations 2 and 4 address the eagle directly, i.e. are more personal than 1 and 3; the latter two mark the eagle as the agent of flying, but this does not make any practical difference here.
+||(You would have had to help him, I tell you!)|5|<lem>(must)y(not)á veè (help)ilÌ vìi:</lem>\u10?<lem>(must)y(not)á veè (help)íly zìe:</lem> is less direct than the first phrasing and the English sentence
+||(Luckily for me, she eats it because of the <em>vitamins</em>.)|6|<lem>(eat)à (vitamin)ÌOl (want)Ìy zèe.</lem>
+||(She gladly eats it, possibly because of the vitamins.<br>(Can you spot the ambiguity in this sentence?))|7|<lem>(eat)à (want)yà (vitamin)y(certain)il(1/2)ÌOl.</lem> (It’s possible that she eats it because of the vitamins.)\u10?<lem>(eat)à (want)Ìa (vitamin)y(certain)il(1/2)ÌOl.</lem> (It’s possible that she wants it because of the vitamins.)
+||(He is fast enough for a tortoise.)|8|<lem>(must)Ì (fast)áyn (tortoise)Ìen.</lem> (<a href="10.html#restrictive_for" title="Predicate adjective and participle">restrictive ‘for’</a>)
+|Why isn’t ‘enough’ translated parallel to ‘too’?:|||
+||(amount)Ì (human)y{Ì} (want)Ì{ym}.|9|This means ‘people to an amount like the wanted ones / as if they were the wanted ones’, implying that the present group of people is different from the one I want because the latter is part of the <strong>hypothetical</strong> comparing world. This is similar to comparisons such as ‘Fantasy is as thin as air [but is something different than air]’, or to ‘<a href="11.html#despite_against" title="‘despite’ and ‘against’">Desdemona loves Othello despite her father’s objections</a> [but the actual reason is something different]’.
+14|Translate:|||
+||(Amélie hopes to find Nino.)|1|<lem>(hope)á (Amélie)yì (search)Ùly (Nino)Ìi.</lem>
+||(She is running to do so (i.e. to find him).)|2|<lem>(run)à fÌUl.</lem>
+||(Amélie didn’t want to be seen.<br>(three possibilities, one stating that she <em>was</em> seen))|3|<lem>(want)a(opposition)á (Amélie)yè (see)ày vèe.</lem>\u10?<lem>(want)á (Amélie)yè (see)a(not)ày vèe.</lem> (<a href="13.html#negating" title="Negation of modals; modification raising">neg-raising</a>)\u10?<lem>(see)à (Amélie)yè (want)a(opposition)ýa vèe.</lem> (‘Unwanted by her / Unluckily for her, Amélie was seen.’)\u10?(or affirmative case)
+||(The sweet’s joy of having been eaten astonishes me.)|4|<lem>(astonish)à veè (enjoy)áOl (sweet)yè (eat)ìly vèy.</lem>\u10?‘enjoy’ can also be in the accusative. (See <a href="3.html#caus-reflexive" title="Causal-reflexive plot usage">causal-reflexive plot usage</a>.)
+||(I have heard about a lot of things.)|5|<lem>(hear)ìl (3/4)Ìy.</lem>
+||(a song [concrete noun] by the girl about riding a horse<br>(two translations with different meanings)<br>What if we drop the requirement that ‘song’ be a concrete noun?)|6|<lem>(make)ý (female)yè (sing)àa (ride)ày (horse)Ìi.</lem> (The girl made the song.)\u10?<lem>(make)Ì (sing)áa (female)yè (ride)ày (horse)Ìi.</lem> (The girl sings the song.)\u10?<lem>(sing)á (female)yè (ride)ày (horse)Ìi.</lem> (‘song’ as gerund-like abstract noun)
+||(She stopped to speak to me vs. She stopped speaking to me.)|7|<lem>(do)à (move)iRà (speak)àUl zèi.</lem> (She stopped in order to speak to me: <a href="10.html#objects" title="Objects of topicalised verbs">object of a topicalised verb</a>) vs.\u10?<lem>(speak)ìR vèi.</lem>
+|Can ‘book’ be absorbed in the following phrase?|||
+||(write)à (book){àa}.|8|Strictly speaking, no, because <lem>(book)à.</lem> ‘make a book’ isn’t a sub-category verb of <lem>(write)à.</lem> – it can also be understood in the sense of printing and binding a book. However, absorption is possible if the meaning ‘write a book’ is clear from context.
+15|Translate:|||
+||(want)à (read)ày (write)ýy (Jacopo)Ìe, (search)Ùlel (password)Ìi.|1|I want to read Jacopo’s texts, because I found the password. (i.e. finding the password is the cause for the <em>wish</em> to read the texts.) 
+||(I am sure it is good if Jacopo speaks.)|2|<lem>(certain)ìl veì (good)ìly (speak)ály (Jacopo)Ìe.</lem>
+||(It cost me more (= I paid more) than I’d hoped.)|3|<lem>(more)Ì (pay)yÌ (hope)Ìym.</lem> (like ‘<a href="13.html#enough_too" title="‘enough’ and ‘too’">too many people</a>’)\u10?<lem><=> (pay)à (more)Ìy (hope)Ìym.</lem>
+||(Being rather tetchy, the tortoise is shouting at me although I fed it.)|4|<lem>(shout)á (tortoise)yè veì (tetchy)a(5/8)aÒl (eat)a(not)íem zèe.</lem> (‘The tortoise is shouting at me like an un-fed one.’)
+||(I stopped reading as I heard a noise.<br>(two possibilities with different meanings))|5|<lem>(do)à (read)íRa zeí (loud)ÌaR \(fìi\).</lem> (‘as’ = ‘when’)\u10?<lem>(do)à (read)íRa zeí (loud)ÌOl \(fìi\).</lem> (‘as’ = ‘because’; or causative)
+||(Jacopo recommends her to eat it because of the <em>vitamins</em> [instead of the taste].)|6|<lem>(eat)à (should)áyl (Jacopo)yè vày (vitamin)ÌOl.</lem>
+||(Maybe the baby’ll eat if you sing to it.)|7|<lem>(certain)il(1/2)ìl (eat)áy (baby)yì (sing)àOl vìi.</lem>
+|Why doesn’t the translation of the above sentence mean ‘Maybe the baby eats because of the singing’? How is <em>this</em> sentence translated?||8|As this sentence claims the baby’s eating to be real, we need a modified object:\u10?<lem>(eat)á (baby)yì (sing)a(certain)il(1/2)àOl vìi.</lem>
+16|Translate:|||
+||(We went to the valley where the flowers sing.<br>(with partitive, two possibilities))|1|<lem>(move)à (sing)ári (flower)yè (valley)Ìarn.</lem>\u10?<lem>(move)à (valley)yìn (sing)ári (flower)Ìe.</lem>
+||(the child that got a bottle vs. the child that took a bottle)|2|<lem>(child)Ì (give)ìy (bottle)Ìy.</lem> vs.\u10?<lem>(child)Ì (give)íy wiì (bottle)Ìy.</lem>\u10?(<a href="6.html#inner_agentive" title="Relative pronouns">Inner agentive</a>, remember? Depending on the sentence in which this phrase occurs, we may be able to get rid of the pronoun with an inversion.)
+||(The child, which the tortoise assumes got the bottle, is beautiful.<br>(Translate with and without a weak bracket.))|3|<lem>(beautiful)ìl (child)Ìy (assume)Ìly (tortoise)yì (give)ìly zyì (bottle)Ìy.</lem> (No agent given for ‘assume’, so a motivational wouldn’t make much sense.)\u10?<lem>(assume)ìl (tortoise)yì (give)ìly (child)Ìi (beautiful)yý (bottle)Ìy.</lem> (‘The tortoise assumes that the beautiful child has been given the bottle.’)
+||(I’ve seen a beaver, as (= which is a fact that) I told you.<br>(Include all the pronouns.))|4|<lem>(see)ìl veì (beaver)yè (speak)ýal zeè zìi.</lem>
+||(He found whichever poodle I wanted.)|5|<lem>(search)Ùl (any)Ìi (poodle)Ìyn (want)ýy jèe.</lem>
+||(Why have you eaten the sweets? — Because they tasted nice.<br>(Include the pronoun in the answer.))|6|<lem>(eat)Ol(ask)ìl (sweet)Ìy.</lem> (<lem>-(identity)y-</lem> not necessary)\u10?<lem>(taste)à \{fOlÌ\} (beautiful)Ìy.</lem> (or arguably an outer factive for the pronoun)
+||(Will you eat the sweets? — If I may.)|7|<lem>(do)a(ask)à (eat)áy ziì (sweet)Ìy. ^ (want)à \{fyÌ\} (do)àul \{qyà\} (allow)àel.</lem>\u10?The <a href="15.html#conditional" title="Conditional clauses">conditional sentence</a> underlying the answer is ‘I’ll eat the sweets if I may’:\u10?<lem>(want)à (eat)ày (sweet)yý àul (allow)àel.</lem>\u10?From there, we replace the accusative object (‘eat the sweets’) with a pronoun equating it to the question’s accusative object; then we need a pseudo-desorption to refer to the action of eating. Both pronouns can be omitted.
+||(<lem>(search)è (poodle)Ìy.</lem> (three possibilities))|8|one who searches / looks for a poodle\u10?one searching / looking for a poodle\u10?a poodle searcher
+|Why is it always possible to remove a bracket’s predicate from a sentence without breaking any dependencies?||9|First convert the bracket into the corresponding coordination. Then you can remove the object that originally was the bracket’s predicate. Schematically:\u10?<span class="schlem">Aà¹ B<mark>è</mark>i² C&ygrave;<mark>e</mark>³. -> Aà¹ Be<mark>ì</mark>² C&ygrave;<mark>i</mark>². -> Aà¹ C&ygrave;i².</span>\u10?(<a href="5.html#exercises" title="Adjectives and participles as attributes and adverbs: Exercises">Bracket inversion</a> works for the same reason. Just exchange the coordination’s objects, B and C, and convert back to a bracket.)\u10?
